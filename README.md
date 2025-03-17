@@ -2,6 +2,8 @@
 
 Este projeto é um aplicativo **Angular** que se conecta à **API de Contatos** para realizar operações de **cadastro**, **edição** e **pesquisa** de contatos.
 
+![GIF do ContactApp](public/ContactApp.gif)
+
 ## Versões
 
 - **Node.js**: 14.x ou superior
